@@ -1,0 +1,9 @@
+Hello world   my   name  is    	harun  . 
+writing C 	 haha ,  lol. test 123	 
+
+   	
+hello, world
+A backslash \ and a	tab.
+This is a long line to test the program, it should be longer than eighty characters for the test.
+thisisthelongestwordeveriwilltrynowherewegotryingin321andnowimtrying ok
+last line without a newline
